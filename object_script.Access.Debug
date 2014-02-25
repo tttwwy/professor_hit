@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\window.o
+./debug\changepassword.o
+./debug\loginto.o
+./debug\about.o
+./debug\qrc_resource.o
+./debug\moc_window.o
+./debug\moc_changepassword.o
+./debug\moc_loginto.o
+./debug\moc_delegate.o
+./debug\moc_about.o
+./debug\moc_mylistview.o
+);

@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\window.o
+./release\changepassword.o
+./release\loginto.o
+./release\about.o
+./release\qrc_resource.o
+./release\moc_window.o
+./release\moc_changepassword.o
+./release\moc_loginto.o
+./release\moc_delegate.o
+./release\moc_about.o
+./release\moc_mylistview.o
+);
